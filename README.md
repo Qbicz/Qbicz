@@ -8,6 +8,11 @@
 - 🔧 Creating complex edge computing devices based on Embedded Linux, as well as minimal, real-time embedded systems based on microcontrollers 
 - 📡 Exploring use of GNSS, IMU, cameras and ToF sensors for solving real world problems 
 
+## Links
+
+- 🌐 [kubicz.engineer](https://kubicz.engineer)
+- 📖 [Fast Reading App](https://kubicz.engineer/fast-reading-app/)
+
 ## Tech & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
