@@ -1,13 +1,12 @@
 # Hi, I'm Filip Kubicz 👋
 
-**Embedded Software Engineer** passionate about building smart, connected systems.
+**Embedded Software Engineer** passionate about building systems that improve people's lives.
 
 ## About Me
 
 - 🤖 Interested in **Robotics**, **Computer Vision**, **IoT**, and **Rust**
-- 🔧 Writing firmware and low-level software for embedded systems
-- 🦀 Exploring Rust for safe and performant embedded development
-- 📡 Building connected devices and edge computing solutions
+- 🔧 Creating complex edge computing devices based on Embedded Linux, as well as minimal, real-time embedded systems based on microcontrollers 
+- 📡 Exploring use of GNSS, IMU, cameras and ToF sensors for solving real world problems 
 
 ## Tech & Tools
 
@@ -16,9 +15,3 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## Interests
-
-| 🤖 Robotics | 👁️ Computer Vision | 📡 IoT | 🦀 Rust |
-|:-----------:|:------------------:|:------:|:-------:|
-| ROS / motion planning | OpenCV / SLAM | MQTT / Zigbee | `no_std` embedded |
