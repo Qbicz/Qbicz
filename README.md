@@ -12,6 +12,7 @@
 
 - 🌐 [kubicz.engineer](https://kubicz.engineer)
 - 📖 [Fast Reading App](https://kubicz.engineer/fast-reading-app/)
+- 🧠 [`grill-with-docs` skill](https://www.aihero.dev/grill-with-docs)
 
 ## Tech & Tools
 
