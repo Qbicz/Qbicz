@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Filip Kubicz 👋
 
-<!--
-**Qbicz/Qbicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Software Engineer** passionate about building smart, connected systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Interested in **Robotics**, **Computer Vision**, **IoT**, and **Rust**
+- 🔧 Writing firmware and low-level software for embedded systems
+- 🦀 Exploring Rust for safe and performant embedded development
+- 📡 Building connected devices and edge computing solutions
+
+## Tech & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## Interests
+
+| 🤖 Robotics | 👁️ Computer Vision | 📡 IoT | 🦀 Rust |
+|:-----------:|:------------------:|:------:|:-------:|
+| ROS / motion planning | OpenCV / SLAM | MQTT / Zigbee | `no_std` embedded |
