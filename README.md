@@ -15,6 +15,11 @@
 
 ## Tech & Tools
 
+[Rerun](https://rerun.io/viewer)
+[Foxglove](app.foxglove.dev)
+[Nvidia Jetson](https://developer.nvidia.com/embedded-computing)
+[Datadog](https://www.datadoghq.com/)
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
