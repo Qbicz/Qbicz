@@ -20,6 +20,7 @@
 [Foxglove](app.foxglove.dev)
 [Nvidia Jetson](https://developer.nvidia.com/embedded-computing)
 [Datadog](https://www.datadoghq.com/)
+[World ID](https://world.org/world-id)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
