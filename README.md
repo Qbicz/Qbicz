@@ -5,8 +5,8 @@
 ## About Me
 
 - 🤖 Interested in **Robotics**, **Computer Vision**, **IoT**, and **Rust**
-- 🔧 Creating complex edge computing devices based on Embedded Linux, as well as minimal, real-time embedded systems based on microcontrollers 
-- 📡 Exploring use of GNSS, IMU, cameras and ToF sensors for solving real world problems 
+- 🚀 Creating edge computing devices based on Nvidia Jetson / Embedded Linux, as well as minimal, real-time embedded systems based on microcontrollers like STM32 / Nordic nRF.
+- 📡 Exploring use of cameras, 2D ToF sensors, GNSS and IMU for solving real world problems 
 
 ## Links
 
