@@ -12,7 +12,7 @@
 
 - 🌐 [kubicz.engineer](https://kubicz.engineer)
 - 📖 [Fast Reading App](https://kubicz.engineer/fast-reading-app/)
-- 🔥 [How to Do Great Work](https://paulgraham.com/greatwork.html)
+- 🔥 [How to Do Great Work (by Paul Graham)](https://paulgraham.com/greatwork.html)
 - 🧠 [`grill-with-docs` skill](https://www.aihero.dev/grill-with-docs)
 
 ## Tech & Tools
